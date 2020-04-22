@@ -2325,3 +2325,12 @@ body.app_version .dev-list .widget-title small{
     -moz-animation: sonarEffect 1.3s ease-out 75ms;
     animation: sonarEffect 1.3s ease-out 75ms;
 }
+.videodiv{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+video{
+    border: none;
+    width: 80vw;
+}
